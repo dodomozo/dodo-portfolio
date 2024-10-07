@@ -4,7 +4,7 @@ import 'vuetify/styles'; // Import Vuetify styles
 import '@mdi/font/css/materialdesignicons.css'; // Import Material Design Icons
 
 const vuetify = createVuetify({
-  // Vuetify options
+    // Vuetify options
 });
 
 export default vuetify;
