@@ -1,9 +1,7 @@
 <template>
     <div class="about">
-        <v-app>
-            <v-btn color="primary">Button</v-btn>
-            <h1>This is an about page</h1>
-        </v-app>
+        <v-btn color="primary">Button</v-btn>
+        <h1>This is an about page</h1>
     </div>
 </template>
 
